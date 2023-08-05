@@ -9,4 +9,3 @@
 # Map
 ![image](https://github.gatech.edu/storage/user/65109/files/4c4bef16-3c1e-4550-86a8-50a5df2446ec)
 
-![logo](https://github.gatech.edu/wOOd-rAnk/campus-discovery-system/blob/main/electron-app/src/assets/app_logo.png?raw=true)
